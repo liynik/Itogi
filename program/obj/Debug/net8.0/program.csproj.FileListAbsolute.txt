@@ -1,0 +1,15 @@
+/Users/liynik/Desktop/itogi/program/bin/Debug/net8.0/program
+/Users/liynik/Desktop/itogi/program/bin/Debug/net8.0/program.deps.json
+/Users/liynik/Desktop/itogi/program/bin/Debug/net8.0/program.runtimeconfig.json
+/Users/liynik/Desktop/itogi/program/bin/Debug/net8.0/program.dll
+/Users/liynik/Desktop/itogi/program/bin/Debug/net8.0/program.pdb
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.AssemblyInfoInputs.cache
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.AssemblyInfo.cs
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.csproj.CoreCompileInputs.cache
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.sourcelink.json
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.dll
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/refint/program.dll
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.pdb
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/program.genruntimeconfig.cache
+/Users/liynik/Desktop/itogi/program/obj/Debug/net8.0/ref/program.dll
